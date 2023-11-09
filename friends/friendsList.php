@@ -21,7 +21,7 @@
             <div class="col-md-6">
               <br>
               <center>
-                <h1>Home</h1>
+                <h1>Friends</h1>
                 <p class="lead">content goes here</p>
                 </center>
             </div>
@@ -36,7 +36,7 @@
             </div>
         </div>
     </div>
-                
+
     <!-- Bootstrap core JS-->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
     <!-- Core theme JS-->
